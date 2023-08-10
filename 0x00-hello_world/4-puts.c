@@ -2,8 +2,8 @@
 
 
 /**
- * main - A program that prints a line with puts function
- * return 0.
+ * main - prints " program that prints a line with puts function
+ * Return: Always 0.
  */
 int main(void)
 
