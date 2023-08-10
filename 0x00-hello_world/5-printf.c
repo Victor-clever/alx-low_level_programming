@@ -3,6 +3,7 @@
 
 /**
  * main - Prints " A program that prints a line using printf funtion
+ * a piece of art, " followed by a new line.
  * Return: Always 0.
  */
 
