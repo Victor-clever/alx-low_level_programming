@@ -1,10 +1,8 @@
-include <unistd.h>
+#include <unistd.h>
 
-
-/**
-* main - prints "programming is like building a multiple",
-*folloed by a newline, to standard error.
-*Return: Always 1.
+/**main - prints "and that piece of art is useful" - Dora Korpar, 2015-10-19",
+* folloed by a newline, to standard error.
+* Return: Always 1.
 */
 
 int main(void)
