@@ -2,9 +2,10 @@
 
 
 /**
- * main - Prints " A program that prints a line using printf funtion
- * a piece of art, " followed by a new line.
- * Return: Always 0.
+ * main - 5-printf.c
+ * description - Write a C program that prints exactly with proper grammar,
+ *
+ * Return: Always 0.(Success)
  */
 
 int main(void)
