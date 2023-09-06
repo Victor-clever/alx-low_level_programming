@@ -10,7 +10,10 @@ int _strcmp(char *s1, char *s2)
 {
 	int i;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b8340f6f93f7a401ee590028fe550645a664d55d
 	i = 0;
 	while (s1[i] != '\0' && s2[i] != '\0')
 	{

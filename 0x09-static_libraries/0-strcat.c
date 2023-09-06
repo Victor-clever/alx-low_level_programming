@@ -1,17 +1,28 @@
 #include "main.h"
+<<<<<<< HEAD
  /**
+=======
+/**
+>>>>>>> b8340f6f93f7a401ee590028fe550645a664d55d
  * _strcat - concatenates two strings
  * @dest: input value
  * @src: input value
  *
+<<<<<<< HEAD
  * Return: void	
+=======
+ * Return: void
+>>>>>>> b8340f6f93f7a401ee590028fe550645a664d55d
  */
 char *_strcat(char *dest, char *src)
 {
 	int i;
 	int j;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b8340f6f93f7a401ee590028fe550645a664d55d
 	i = 0;
 	while (dest[i] != '\0')
 	{
@@ -23,8 +34,12 @@ char *_strcat(char *dest, char *src)
 		dest[i] = src[j];
 		i++;
 		j++;
+<<<<<<< HEAD
 	}		
 
+=======
+	}
+>>>>>>> b8340f6f93f7a401ee590028fe550645a664d55d
 
 	dest[i] = '\0';
 	return (dest);

@@ -9,7 +9,10 @@ char *_strpbrk(char *s, char *accept)
 {
 	int k;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b8340f6f93f7a401ee590028fe550645a664d55d
 	while (*s)
 	{
 		for (k = 0; accept[k]; k++)
@@ -20,7 +23,10 @@ char *_strpbrk(char *s, char *accept)
 	s++;
 	}
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b8340f6f93f7a401ee590028fe550645a664d55d
 return ('\0');
 }
 

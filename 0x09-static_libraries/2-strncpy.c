@@ -11,7 +11,10 @@ char *_strncpy(char *dest, char *src, int n)
 {
 	int j;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b8340f6f93f7a401ee590028fe550645a664d55d
 	j = 0;
 	while (j < n && src[j] != '\0')
 	{
@@ -24,7 +27,10 @@ char *_strncpy(char *dest, char *src, int n)
 		j++;
 	}
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b8340f6f93f7a401ee590028fe550645a664d55d
 	return (dest);
 }
 

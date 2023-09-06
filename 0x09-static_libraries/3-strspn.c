@@ -10,7 +10,10 @@ unsigned int _strspn(char *s, char *accept)
 	unsigned int n = 0;
 	int r;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b8340f6f93f7a401ee590028fe550645a664d55d
 	while (*s)
 	{
 		for (r = 0; accept[r]; r++)
