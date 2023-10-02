@@ -3,7 +3,7 @@
 
 /**
  * reads_textfiles- Read text file prints to STDOUT.
- * @filename: text files being read
+ * @filename: text file being read
  * @letters: number of letters to be read
  * Return: w- actual number of bytes read and printed
  *        0 when function fails or filename is NULL.
